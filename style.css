@@ -1,5 +1,5 @@
 body {
-  font-family: "The Nautigal", cursive;
+  font-family: "Lato", sans-serif;
   margin: 0;
 }
 h1 {
@@ -41,7 +41,7 @@ h2 {
 }
 #mission {
   border-left: 8px solid;
-  border-image: linear-gradient(rgb(204, 0, 255), rgb(0, 255, 85));
+  border-image: linear-gradient(rgb(52, 89, 190), rgb(0, 255, 85));
   border-image-slice: 1;
   border-radius: 10px;
   background-color: #66ccff;
@@ -57,7 +57,7 @@ h2 {
   border-image: linear-gradient(purple, rgb(184, 255, 71));
   border-image-slice: 1;
   border-radius: 10px;
-  background-color: #736f9e;
+  background-color: #a14195;
   box-shadow: 10px 10px 30px rgb(88, 84, 79);
   margin-left: 3%;
   margin-right: 3%;
@@ -70,7 +70,7 @@ h2 {
   border-image: linear-gradient(rgb(255, 145, 0), rgb(194, 53, 28));
   border-image-slice: 1;
   border-radius: 10px;
-  background-color: #ffffcc6b;
+  background-color: #daf10b6b;
   box-shadow: 10px 10px 30px rgb(192, 192, 192);
   margin-left: 4%;
   margin-right: 4%;
