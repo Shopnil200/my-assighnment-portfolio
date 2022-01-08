@@ -1,0 +1,94 @@
+body {
+  font-family: "The Nautigal", cursive;
+  margin: 0;
+}
+h1 {
+  font-size: 45px;
+}
+h2 {
+  font-size: 35px;
+}
+.color-w {
+  color: rgb(121, 155, 0);
+}
+.left-border {
+  border-left: 5px solid #19bfc5;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(#452a86, rgb(255, 71, 111));
+  padding: 10px 25px;
+  color: whitesmoke;
+  font-weight: 900;
+  border-radius: 5px;
+}
+.half-width {
+  width: 50%;
+  padding-left: 5%;
+  text-align: justify;
+}
+
+.half-width img {
+  width: 40%;
+}
+.flexible-container {
+  display: flex;
+  margin-bottom: 40px;
+}
+.center {
+  text-align: center;
+  font-size: 35px;
+}
+#mission {
+  border-left: 8px solid;
+  border-image: linear-gradient(rgb(204, 0, 255), rgb(0, 255, 85));
+  border-image-slice: 1;
+  border-radius: 10px;
+  background-color: #66ccff;
+  box-shadow: 10px 10px 30px silver;
+  margin-left: 2%;
+  margin-right: 2%;
+  text-align: justify;
+  background-repeat: no-repeat;
+  padding-right: 20px;
+}
+#vission {
+  border-left: 8px solid;
+  border-image: linear-gradient(purple, rgb(184, 255, 71));
+  border-image-slice: 1;
+  border-radius: 10px;
+  background-color: #736f9e;
+  box-shadow: 10px 10px 30px rgb(88, 84, 79);
+  margin-left: 3%;
+  margin-right: 3%;
+  text-align: justify;
+  background-repeat: no-repeat;
+  padding-right: 20px;
+}
+#goals {
+  border-left: 8px solid;
+  border-image: linear-gradient(rgb(255, 145, 0), rgb(194, 53, 28));
+  border-image-slice: 1;
+  border-radius: 10px;
+  background-color: #ffffcc6b;
+  box-shadow: 10px 10px 30px rgb(192, 192, 192);
+  margin-left: 4%;
+  margin-right: 4%;
+  text-align: justify;
+  background-repeat: no-repeat;
+  padding-right: 20px;
+}
+#second-dev {
+  width: 100%;
+}
+footer {
+  text-align: center;
+  background-color: black;
+  margin: 0;
+}
+.footer-color {
+  color: rgb(253, 253, 250);
+}
+.footer-m {
+  color: rgb(210, 207, 228);
+}
